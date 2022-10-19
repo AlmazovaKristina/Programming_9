@@ -1,0 +1,15 @@
+/Users/kristinaalmazova/Documents/Programming8/Task66/obj/Debug/net6.0/Task66.csproj.AssemblyReference.cache
+/Users/kristinaalmazova/Documents/Programming8/Task66/obj/Debug/net6.0/Task66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinaalmazova/Documents/Programming8/Task66/obj/Debug/net6.0/Task66.AssemblyInfoInputs.cache
+/Users/kristinaalmazova/Documents/Programming8/Task66/obj/Debug/net6.0/Task66.AssemblyInfo.cs
+/Users/kristinaalmazova/Documents/Programming8/Task66/obj/Debug/net6.0/Task66.csproj.CoreCompileInputs.cache
+/Users/kristinaalmazova/Documents/Programming8/Task66/bin/Debug/net6.0/Task66
+/Users/kristinaalmazova/Documents/Programming8/Task66/bin/Debug/net6.0/Task66.deps.json
+/Users/kristinaalmazova/Documents/Programming8/Task66/bin/Debug/net6.0/Task66.runtimeconfig.json
+/Users/kristinaalmazova/Documents/Programming8/Task66/bin/Debug/net6.0/Task66.dll
+/Users/kristinaalmazova/Documents/Programming8/Task66/bin/Debug/net6.0/Task66.pdb
+/Users/kristinaalmazova/Documents/Programming8/Task66/obj/Debug/net6.0/Task66.dll
+/Users/kristinaalmazova/Documents/Programming8/Task66/obj/Debug/net6.0/refint/Task66.dll
+/Users/kristinaalmazova/Documents/Programming8/Task66/obj/Debug/net6.0/Task66.pdb
+/Users/kristinaalmazova/Documents/Programming8/Task66/obj/Debug/net6.0/Task66.genruntimeconfig.cache
+/Users/kristinaalmazova/Documents/Programming8/Task66/obj/Debug/net6.0/ref/Task66.dll
